@@ -1,4 +1,4 @@
-## Socail Networks:
+## Social Networks:
 
 Please make sure you have accounts on the following social networks:
 
