@@ -1,26 +1,33 @@
-## Social Networks:
+# session 1
 
-Please make sure you have accounts on the following social networks:
+## Social Networks for Computer Engineers
 
+Please make sure you have accounts on:
+
+- [GitHub](https://github.com/)
 - [LinkedIn](https://www.linkedin.com)
 - [Stack Overflow](https://stackoverflow.com)
 
-Find me on linkedin and add to your network. You may also want to follow other professors.
+1. Find me on linkedin and add to your network :)
+2. Create your first webpage on github. Read [this](https://programmingliftoff.com/create-your-first-website-on-github-pages/) if you need help.
 
-## Coursera
+
+## Coursera 
 
 - Sign up for a [coursera](https://www.coursera.org) account. Tell us which course(s) are you going to enroll this semester.
 - You can find useful information about options for free enrollments including _financial aid_ option [here](https://virgool.io/cheyab-blog/coursera-guide-for-iranians-s7aubrjoqedi)
 - There are plenty of eye-catching courses on coursera you may like:
+
  1. [Programming for Everybody (getting started with Python)](https://www.coursera.org/learn/python?specialization=python)
-you may finish this in less than two weeks (easy-peasy). share your certificate on linkedin. 
+
+    you may finish this in less than two weeks (easy-peasy). share your certificate on linkedin. 
 
  2. [Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
-spend two more weeks, then you can say you know alphabets of Python.
+
+    spend two more weeks, then you can say you know alphabets of Python.
 
  3. [Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/specializations/web-design)
 
- Tell us which courses you have picked up to pass in the near future.
 
 ## Avatarify and GPU
 
@@ -28,4 +35,4 @@ spend two more weeks, then you can say you know alphabets of Python.
 
 2. What is a GPU? What is the most important difference between CPUs and GPUs? You can find the answer [here](https://www.youtube.com/watch?v=XKOI9-G-wk8) and [here](https://www.youtube.com/watch?v=1kypaBjJ-pg). [This one](https://www.youtube.com/watch?v=-P28LKWTzrI) is also very famous to show the difference between CPU and GPU.
 
-
+3. How to choose a GPU for ourself? read [this blog post](https://www.shahrsakhtafzar.com/fa/buyer-guide/4504-best-graphic-cards-to-buy-with-price) and recap for your classmates.
