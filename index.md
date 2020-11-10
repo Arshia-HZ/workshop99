@@ -45,12 +45,12 @@ Please make sure you have accounts on:
 
 # Topics for class presentations:
 
-- practical
+- Practical
 1. Windows Powershell and CMD, commands you must know (week2)
 2. git (week2)
 3. VMware Workstation, install ubuntu (week3)
 4. Linux Terminal commands (week 4)
-5. Create basic and advance webpages on github, introducing markdown format 
+5. Create basic and advance webpages on github, introducing markdown format and simple HTML 
 6. Latex 
 
 - Theoretical
@@ -58,6 +58,5 @@ Please make sure you have accounts on:
 8. Quantum Computers
 9. Brain-Computer Interface Technology
 10. Computer Hardware (CPU, GPU, RAM, Motherboard, ...)
-11. Numerical Systems (week 2)
 
 and whatever you would like to teach us :)
