@@ -1,6 +1,6 @@
 # session 1
 
-## Avatarify
+## Avatarify and DeepFake
 
 1. [Install](https://github.com/alievk/avatarify#install) and run avatarify and try to create fun videos or gifs. Watch [this video](https://www.aparat.com/v/jnMY2/%D9%88%DB%8C%D8%AF%DB%8C%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%85%D9%86_%D9%87%D9%85%D8%A7%DB%8C%D9%88%D9%86_%D8%B4%D8%AC%D8%B1%DB%8C%D8%A7%D9%86_%D9%88_%D9%87%D9%86%D8%B1%D9%86%D9%85%D8%A7%DB%8C%DB%8C_%D8%AC%D9%85%D8%B9%DB%8C_%D8%A7%D8%B2_%D9%82%D9%87%D8%B1%D9%85%D8%A7%D9%86%D8%A7%D9%86) for an example.
 
@@ -13,6 +13,8 @@
 Why not? Take a look at [this](https://ccc.iust.ac.ir/)
 
 5. Finally, What are Neural Networks?
+
+6. [He](https://www.youtube.com/watch?v=IVMoKuFWCvo) says it is also possible to make deep fakes with smart phones. I haven't tried it yet. Let me know if you tried and if it worked.
 
 ## Social Networks for Computer Engineers
 
