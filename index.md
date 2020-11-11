@@ -62,3 +62,10 @@ Please make sure you have accounts on:
 10. Computer Hardware (CPU, GPU, RAM, Motherboard, ...)
 
 and whatever you would like to teach us :)
+
+## Instructor
+Tayebe Rafiei
+Email: Rafiei.Ta [gmail] AND rafiei [comp.iust.ac.ir]
+Telegram: @RafieiTa
+Skype: Rafiei.Ta [hotmail]
+   
